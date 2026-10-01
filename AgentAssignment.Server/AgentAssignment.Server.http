@@ -1,0 +1,6 @@
+@AgentAssignment.Server_HostAddress = http://localhost:5197
+
+GET {{AgentAssignment.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AgentAssignment.Server/AgentAssignment.Server.csproj" />
+  <Project Path="AgentAssignment.Tests/AgentAssignment.Tests.csproj" />
+</Solution>
